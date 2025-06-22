@@ -1,0 +1,1 @@
+This repository serves as a personal archive of various coding projects, including academic coursework and personal experiments. It’s not actively maintained but acts as a central place to store and revisit past work.
